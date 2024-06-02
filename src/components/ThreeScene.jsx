@@ -34,70 +34,70 @@ const ThreeScene = () => {
         distance: 0,
         color: 0xffcc00,
         speed: 0,
-        texture: '/assets/sun.jpg',
+        texture: '/sun.jpg',
       }, // Sun
       {
         radius: 2.4,
         distance: 40,
         color: 0xffdd44,
         speed: 0.0004,
-        texture: '/src/assets/mercury.jpg',
+        texture: '/mercury.jpg',
       }, // Mercury
       {
         radius: 6,
         distance: 80,
         color: 0xeecc99,
         speed: 0.00016,
-        texture: '/src/assets/venus.jpg',
+        texture: '/venus.jpg',
       }, // Venus
       {
         radius: 6.4,
         distance: 120,
         color: 0xaf47d2,
         speed: 0.0001,
-        texture: '/src/assets/earth.jpg',
+        texture: '/earth.jpg',
       }, // Earth
       {
         radius: 3.4,
         distance: 160,
         color: 0xff3333,
         speed: 0.00008,
-        texture: '/src/assets/mars.jpg',
+        texture: '/mars.jpg',
       }, // Mars
       {
         radius: 13,
         distance: 220,
         color: 0xffaa33,
         speed: 0.00004,
-        texture: '/src/assets/jupiter.jpg',
+        texture: '/jupiter.jpg',
       }, // Jupiter
       {
         radius: 11,
         distance: 280,
         color: 0xffaa77,
         speed: 0.00003,
-        texture: '/src/assets/saturn.jpg',
+        texture: '/saturn.jpg',
       }, // Saturn
       {
         radius: 5,
         distance: 340,
         color: 0x33ccff,
         speed: 0.00001,
-        texture: '/src/assets/uranus.jpg',
+        texture: '/uranus.jpg',
       }, // Uranus
       {
         radius: 5,
         distance: 400,
         color: 0x3333ff,
         speed: 0.00001,
-        texture: '/src/assets/neptune.jpg',
+        texture: '/neptune.jpg',
       }, // Neptune
       {
         radius: 1.2,
         distance: 460,
         color: 0x999999,
         speed: 0.000007,
-        texture: '/assets/pluto.jpg',
+        texture: '/pluto.jpg',
       }, // Pluto
     ]
 
