@@ -34,7 +34,7 @@ const ThreeScene = () => {
         distance: 0,
         color: 0xffcc00,
         speed: 0,
-        texture: '/src/assets/sun.jpg',
+        texture: '/assets/sun.jpg',
       }, // Sun
       {
         radius: 2.4,
@@ -97,7 +97,7 @@ const ThreeScene = () => {
         distance: 460,
         color: 0x999999,
         speed: 0.000007,
-        texture: '/src/assets/pluto.jpg',
+        texture: '/assets/pluto.jpg',
       }, // Pluto
     ]
 
