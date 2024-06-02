@@ -34,49 +34,49 @@ const ThreeScene = () => {
         distance: 0,
         color: 0xffcc00,
         speed: 0,
-        texture: '/src/assets/sun.jpg',
+        texture: '../assets/sun.jpg',
       }, // Sun
       {
         radius: 2.4,
         distance: 40,
         color: 0xffdd44,
         speed: 0.0004,
-        texture: '/src/assets/mercury.jpg',
+        texture: '../assets/mercury.jpg',
       }, // Mercury
       {
         radius: 6,
         distance: 80,
         color: 0xeecc99,
         speed: 0.00016,
-        texture: '/src/assets/venus.jpg',
+        texture: '../assets/venus.jpg',
       }, // Venus
       {
         radius: 6.4,
         distance: 120,
         color: 0xaf47d2,
         speed: 0.0001,
-        texture: '/src/assets/earth.jpg',
+        texture: '../assets/earth.jpg',
       }, // Earth
       {
         radius: 3.4,
         distance: 160,
         color: 0xff3333,
         speed: 0.00008,
-        texture: '/src/assets/mars.jpg',
+        texture: '../assets/mars.jpg',
       }, // Mars
       {
         radius: 13,
         distance: 220,
         color: 0xffaa33,
         speed: 0.00004,
-        texture: '/src/assets/jupiter.jpg',
+        texture: '../assets/jupiter.jpg',
       }, // Jupiter
       {
         radius: 11,
         distance: 280,
         color: 0xffaa77,
         speed: 0.00003,
-        texture: '/src/assets/saturn.jpg',
+        texture: '../assets/saturn.jpg',
       }, // Saturn
       {
         radius: 5,
