@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#three-container {
+  width: 100%;
+  height: 70vh;
+}
+
+#chart-container {
+  width: 80%;
+  height: 30vh;
+  margin-top: 20px;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+.axis--x path {
+  display: none;
+}
